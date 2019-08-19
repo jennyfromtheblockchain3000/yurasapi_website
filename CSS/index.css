@@ -1,16 +1,27 @@
 p {
     color: purple;
     text-align: center;
-    font-family: antic-didone, sans-serif;
+    font-family: bilbo-swash-caps, sans-serif;
 }
 
 div p {
     color: pink;
-    font-family: bilbo-swash-caps, sans-serif;
+    font-family: antic-didone, sans-serif;
 }
 
 img {
     max-width: 50%;
     display: block;
     margin:auto;
+}
+
+.description {
+    background-color: #433a3f;
+    display: flex; 
+    flex-flow: wrap;
+}
+
+.description p {
+    color: #64c174;
+    margin: auto;
 }
