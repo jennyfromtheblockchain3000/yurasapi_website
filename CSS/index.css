@@ -1,11 +1,18 @@
-p {
-    color: purple;
+h1 {
+    color: green;
     text-align: center;
-    font-family: bilbo-swash-caps, sans-serif;
+    font-family: antic-didone, sans-serif;
 }
 
-div p {
-    color: pink;
+h2 {
+    color: green;
+    text-align: center;
+    font-family: antic-didone, sans-serif;
+}
+
+p {
+    color: green;
+    text-align: center;
     font-family: antic-didone, sans-serif;
 }
 
