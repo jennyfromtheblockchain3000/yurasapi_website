@@ -2,6 +2,7 @@ h1 {
     color: green;
     text-align: center;
     font-family: antic-didone, sans-serif;
+    font-size: 80px;
 }
 
 h3 {
@@ -14,21 +15,27 @@ p {
     color: green;
     text-align: center;
     font-family: antic-didone, sans-serif;
+    font-size: 20px;
 }
 
 img {
     max-width: 50%;
     display: block;
-    margin:auto;
+    margin: auto;
 }
 
 .description {
     background-color: #433a3f;
     display: flex; 
     flex-flow: wrap;
+    text-align: center;
 }
 
 .description p {
     color: #64c174;
     margin: auto;
+}
+
+body {
+    text-align: center;
 }
